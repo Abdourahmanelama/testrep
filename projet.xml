@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- New XML document created with EditiX XML Editor (http://www.editix.com) at Sat May 11 23:46:00 GMT 2024 -->
+
+<contacts>
+    <contact>
+        <id>1</id>
+        <nom>Diouf</nom>
+        <email>abdourahmanelama2@gmail.com</email>
+        <telephone>774567890</telephone>
+    </contact>
+    <contact>
+        <id>2</id>
+        <nom>Fall</nom>
+        <email>alioufaye2@gmail.com</email>
+        <telephone>787654321</telephone>
+    </contact>
+    <!-- Ajoutez d'autres contacts ici -->
+</contacts>

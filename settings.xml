@@ -1,0 +1,7 @@
+<servers>
+    <server>
+        <id>nexus</id>
+        <username>admin</username>
+        <password>passer</password>
+    </server>
+</servers>

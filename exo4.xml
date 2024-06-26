@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE livres [
+<!ELEMENT livres ( #PCDATA)>
+<!ELEMENT livre  ( titre , Auteur,annee)>
+<!ATTLIST livre Code ID  #REQUIRED>
+<!ELEMENT titre  (#PCDATA)>
+<!ATTLIST titre  Code ID #REQUIRED>
+<!ELEMENT Auteur  (#PCDATA)>
+<!ATTLIST Auteur  Code ID #REQUIRED>
+<!ELEMENT annee  (#PCDATA)>
+<!ATTLIST annee  Code ID #REQUIRED>
+
+
+]>
+
+<livres> 
+     <livre Code="A100">
+          <titre Code="DE102" >AU beau  matin</titre>
+          <Auteur Code="FE24">Abdourahmane  Diouf </Auteur>
+          <annee Code="SV43">12-04-2022</annee>
+          
+     </livre>
+     
+        <livre Code="A10">
+	      <titre Code="B12">sous l'orange</titre>
+	      <Auteur Code="C100">Mariama  Ba </Auteur>
+	      <annee Code="SW20">12-04-1980</annee>
+	      
+     </livre>
+     <livre Code="QA30">
+	      <titre Code="MN90">l' enfant  noir</titre>
+	      <Auteur Code="VB11">Camara  Laye </Auteur>
+	      <annee Code="GH4">12-04-1898</annee>
+	      
+     </livre>
+
+</livres>
+
+

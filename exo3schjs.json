@@ -1,0 +1,25 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "http://.../mySchema.json",
+  "title": "",
+  "description": "",
+  "type": "object",
+  "properties": {
+  	"processeur" : {
+  		"type":"string"
+  	}
+,
+  	"la RAM" : {
+  		"type":"string"
+  	}
+,
+  	"le stockage" : {
+  		"type":"string"
+  	}
+,
+  	
+  	
+  	
+  },
+  "required": [ " processeur, la RAM, le stockage" ]
+}

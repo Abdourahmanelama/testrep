@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- New XML document created with EditiX XML Editor (http://www.editix.com) at Mon Apr 29 19:51:20 GMT 2024 -->
+
+	<Etudiants>
+		
+		
+		       <Etudiant1>
+		          <nom>Diouf</nom>
+		          <prenom>Abdourahmane  </prenom>
+		          <age>22</age>
+		          <matier>crypto</matier>
+		     </Etudiant1>
+		   
+		
+		       <Etudiant2>
+		          <nom>Diouf</nom>
+		          <prenom>Abdou </prenom>
+		          <age>23</age>
+		          <matier>crypto</matier>
+		     </Etudiant2>
+		
+		
+	</Etudiants>
+

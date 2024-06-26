@@ -1,0 +1,34 @@
+
+[
+
+	{
+
+		"titre":"cours",
+
+		"Description":"faut apprendre tes cours",
+
+		"indication":"true"
+
+	},
+
+	{
+
+		"titre":"exercice",
+
+		"Description":"faut faire tes exercices",
+
+		"indication":"true"
+
+	},
+
+	{
+
+		"titre":"travail",
+
+		"Description":"faut bien travailler en classe",
+
+		"indication":"true"
+
+	}
+
+]

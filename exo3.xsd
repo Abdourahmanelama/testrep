@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- New XSD document created with EditiX XML Editor (http://www.editix.com) at Mon Apr 22 18:38:26 GMT 2024 -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="Etudiant" use="required">
+	<xs:complexType>
+	<xs:sequence>
+		<xs:element name="nom" type="xs:string"></xs:element>
+		<xs:element name="prenom" type="xs:string"></xs:element>
+		<xs:element name="age" type="xs:positiveInteger" ></xs:element>
+		<xs:element name="matiere" type="xs:string"></xs:element>
+	</xs:sequence>
+	</xs:complexType>
+</xs:element>
+</xs:schema>
+
+
+

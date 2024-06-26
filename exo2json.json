@@ -1,0 +1,37 @@
+
+[
+	
+	{
+		
+	"nom":"Diouf",
+	"prenom":"Abdou",
+	"Age":24,
+	"matier":"python"
+	}
+,
+	
+	{
+		
+	"nom":"Faye",
+	"prenom":"Alla",
+	"Age":27,
+	"matier":"reseaux"
+	}
+,
+	{
+		
+	"nom":"ware",
+	"prenom":"oumou",
+	"Age":23,
+	"matier":"rxml"
+	}
+,
+	{
+		
+	"nom":"Sarr",
+	"prenom":"Amy",
+	"Age":22,
+	"matier":"reseaux"
+	}
+,
+]

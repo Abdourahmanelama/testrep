@@ -1,0 +1,46 @@
+
+[
+	
+	{
+		
+	"nom":"Diouf",
+	"prenom":"Abdou",
+	"Age":24,
+	"matier":"python",
+	"moyenne":"12",
+	"ardess":"mamelle"
+	}
+,
+	
+	{
+		
+	"nom":"Faye",
+	"prenom":"Alla",
+	"Age":27,
+	"matier":"reseaux",
+	"moyenne":"12",
+	"ardess":"pikine"
+	}
+,
+	{
+		
+	"nom":"ware",
+	"prenom":"oumou",
+	"Age":23,
+	"matier":"rxml",
+	"moyenne":"12",
+	"ardess":"Dieupeul"
+	}
+,
+	{
+		
+	"nom":"Sarr",
+	"prenom":"Amy",
+	"Age":22,
+	"matier":"reseaux",
+	"moyenne":"12",
+	"ardess":"pikine"
+	}
+,
+]
+

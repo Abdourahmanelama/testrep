@@ -1,0 +1,22 @@
+{
+  "type": "object",
+  "properties": {
+  	"nom" : {
+  		"type":"string"
+  	}
+,
+  	
+  	"âge":{
+  		"type": "integer"
+  	},
+  	"matricule" : {
+  		"type":"integer"
+  	}
+,
+  	
+  	"cours":{
+  		"type": "string"
+  	},
+  },
+  "required": [ "nom", "âge", "matricule", "cours" ]
+}

@@ -1,0 +1,19 @@
+{
+
+  "type": "object",
+  "properties": {
+  	"titre" : {
+  		"type":"string"
+  	}
+,
+  	
+  	"annee":{
+  		"type": "integer"
+  	},
+  	
+  	"acteur":{
+  		"type": "string"
+  	},
+  },
+  "required": [ "titre","annee","acteur" ]
+}

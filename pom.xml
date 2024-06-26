@@ -1,0 +1,14 @@
+<repositories>
+    <repository>
+        <id>nexus</id>
+        <url>http://localhost:8081/repository/maven-public/</url>
+    </repository>
+</repositories>
+<dependencies>
+    <dependency>
+        <groupId>com.example</groupId>
+        <artifactId>my-library</artifactId>
+        <version>1.0.0</version>
+    </dependency>
+</dependencies>
+

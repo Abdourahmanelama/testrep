@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- New XSD document created with EditiX XML Editor (http://www.editix.com) at Sat Apr 27 12:49:45 GMT 2024 -->
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="EXAMEN">
+	<xs:complexType>
+	<xs:sequence>
+		<xs:element name="nom" type="xs:string"></xs:element>
+		<xs:element name="note" type="xs:string"></xs:element>
+
+	</xs:sequence>
+	</xs:complexType>
+	<xs:complexType>
+	<xs:sequence>
+		<xs:element name="nom" type="xs:string"></xs:element>
+		<xs:element name="prenom" type="xs:string"></xs:element>
+		<xs:element name="age" type="xs:decimal"></xs:element>
+		<xs:element name="filier" type="xs:string"></xs:element>
+	</xs:sequence>
+	</xs:complexType>
+	
+</xs:element>
+
+<xs:key name="ClePrimere">
+   <xs:selector xpath="EXAMEN"/>
+   <xs:field xpath="note"/>
+
+</xs:key>
+
+
+</xs:schema>
+

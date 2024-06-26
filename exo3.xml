@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE livres [
+<!ELEMENT livres ( #PCDATA)>
+<!ELEMENT livre  ( titre , Auteur,annee)>
+<!ELEMENT titre  (#PCDATA)>
+<!ELEMENT Auteur  (#PCDATA)>
+<!ELEMENT annee  (#PCDATA)>
+]>
+
+<livres> 
+     <livre>
+          <titre>AU beau  matin</titre>
+          <Auteur>Abdourahmane  Diouf </Auteur>
+          <annee>12-04-2022</annee>
+          <Droit>copyry</Droit>
+     </livre>
+     
+        <livre>
+	      <titre>sous l'orange</titre>
+	      <Auteur>Mariama  Ba </Auteur>
+	      <annee>12-04-1980</annee>
+	      <Droit>copyry</Droit>
+     </livre>
+     <livre>
+	      <titre>l' enfant  noir</titre>
+	      <Auteur>Camara  Laye </Auteur>
+	      <annee>12-04-1898</annee>
+	      <Droit>copyry</Droit>
+     </livre>
+
+</livres>
+
