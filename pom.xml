@@ -6,7 +6,7 @@
 </repositories>
 <dependencies>
     <dependency>
-        <groupId>com.example</groupId>
+        <groupId>com.hosted</groupId>
         <artifactId>testrep</artifactId>
         <version>1.0.0</version>
     </dependency>
